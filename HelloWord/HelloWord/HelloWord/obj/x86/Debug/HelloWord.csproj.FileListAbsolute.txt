@@ -1,0 +1,5 @@
+E:\HelloWord\HelloWord\HelloWord\bin\Debug\HelloWord.exe
+E:\HelloWord\HelloWord\HelloWord\bin\Debug\HelloWord.pdb
+E:\HelloWord\HelloWord\HelloWord\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\HelloWord\HelloWord\HelloWord\obj\x86\Debug\HelloWord.exe
+E:\HelloWord\HelloWord\HelloWord\obj\x86\Debug\HelloWord.pdb
